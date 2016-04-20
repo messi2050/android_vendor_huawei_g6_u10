@@ -1,1 +1,1 @@
-Cm-12.1 vendor files
+# Huawei G6 U10 vendor blobs
